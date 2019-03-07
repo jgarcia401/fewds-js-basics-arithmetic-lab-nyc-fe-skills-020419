@@ -17,7 +17,7 @@ const randomNumber = Math.random([0,20])
 
 const randomInteger = Math.floor(randomNumber)
 
-const randomUserID = Math.floor()
+const randomUserID = Math.floor([1000000001,1000000020])
 
 
 
