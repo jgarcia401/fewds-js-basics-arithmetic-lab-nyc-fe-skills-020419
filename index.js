@@ -17,7 +17,7 @@ const randomNumber = Math.random([0,20])
 
 const randomInteger = Math.floor(randomNumber)
 
-const randomUserID = 
+const randomUserID = Number.isInteger()
 
 
 
